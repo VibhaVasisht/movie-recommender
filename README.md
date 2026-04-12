@@ -7,6 +7,11 @@ A content-based movie recommendation system that suggests movies similar to a gi
 - Built in Python using Jupyter Notebook
 - Web interface using Streamlit for easy interaction
 
+## Screenshots
+<img width="1920" height="990" alt="image" src="https://github.com/user-attachments/assets/1d6d6438-5a6f-4fa4-a0cc-26c66afe76c3" />
+<img width="1920" height="990" alt="image" src="https://github.com/user-attachments/assets/342a4ef5-fdef-4111-92a3-13699b7fa640" />
+
+
 ## Dataset
 This project uses the **TMDB 5000 Movies and Credits datasets**   
 Due to licensing restrictions, the datasets are not included in this repository.
